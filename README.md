@@ -17,7 +17,7 @@ Good luck, young wizard!
 
 ## Notes and Credits
 
-Design and programming by @heldlaw, June 2018 - March 2019.
+Design and programming by @heldlaw, June 2018 - September 2019.
 
 Testers: @amyheldlaw @julieheldlaw
 
@@ -80,7 +80,7 @@ Reversed using Scratch's sound editor.
 "Laugh2" from Scratch's sound library.   
 Trimmed and made slower using Scratch's sound editor.
 
-"Clang" and "Glass Breaking" from Scratch's sound library.
+"Bonk", "Clang" and "Glass Breaking" from Scratch's sound library.
 
 Ventus whirl sound effect generated using SoX:   
 http://sox.sourceforge.net/
@@ -104,3 +104,9 @@ Tip: type "GPS" to see your coordinates.
   https://scratch.mit.edu/discuss/topic/331200/
 - Stamped graphics (including some of the text balloons) look pixelated. Seems to be a Scratch 3.0 issue.
 - In Firefox, the game may slow down while the compass is on screen. Recommended to use Google Chrome instead.
+
+### Changelog
+
+- September 1, 2019: re-shared with patched maze layout and a 'savecode' feature.
+- April 10, 2019: un-shared to resolve 'symbol' dispute.
+- March 3, 2019: shared.
